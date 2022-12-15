@@ -62,4 +62,13 @@ Comprender la creacion de atributos de clase y de instancia
 Comprender metodos de instancia, de clase y estaticos  
 Conocer los pilares de POO y a utilizar la herencia y polimorfismo  
 
-Realizr un proyecto de crear una cuenta bancaria que permita consultar saldo, depositar y retirar dinero
+Realizar un proyecto de crear una cuenta bancaria que permita consultar saldo, depositar y retirar dinero
+
+## Dia 8 - Modulos Externos y manejo de errores
+
+Aprender la busqueda e instalacion de Modulos externos de python  
+Utilizar las librerias de testing pylint y unittest  
+Manejar los error mediante Try,Except,finally  
+Aprender a crear y comprender los generadores y decoradores propios  
+
+Realizar un proyecto de un programa de generador de turnos para público de un negocio
