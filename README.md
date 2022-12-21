@@ -72,3 +72,13 @@ Manejar los error mediante Try,Except,finally
 Aprender a crear y comprender los generadores y decoradores propios  
 
 Realizar un proyecto de un programa de generador de turnos para público de un negocio
+
+## Dia 9 - Profundizacion de librerias integradas de python
+
+Conocer el modulo Collecctions y su uso  
+Profundizar en el modulo OS y Shutil, para el manejo de archivos  
+Aprender el modulo Datetime, time, timeit para el manejo de variables de tiempo   
+Utilizar el modulo Math para operaciones matematicas  
+Comprender el Modulo RE para la utilizacion de expresiones regulares  
+
+Realizar un proyecto de un programa que indentifica un numero de serie dentro de una serie de archivos dentro de un directorio
