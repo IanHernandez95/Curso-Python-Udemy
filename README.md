@@ -82,3 +82,9 @@ Utilizar el modulo Math para operaciones matematicas
 Comprender el Modulo RE para la utilizacion de expresiones regulares  
 
 Realizar un proyecto de un programa que indentifica un numero de serie dentro de una serie de archivos dentro de un directorio
+
+## Dia 10 - Pygame
+
+Instalar y conocer la biblioteca de python pytgame  
+
+Realizar y desarrollar el proyecto de Space Invaders con Pygame
