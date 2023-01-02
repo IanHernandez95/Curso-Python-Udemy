@@ -4,6 +4,8 @@ Este es el Repostorio de todos los ejercicios Realizados durante el curos de Pyt
 
 16 Dias de Python - Link del curso https://www.udemy.com/course/python-total/
 
+#  Entrenamiento básico
+
 ## Dia 1 - Basicos de Python
 
 Aprender a usarl la declaracion Print  
@@ -55,6 +57,8 @@ Utilizar funciones para modificar archivos y directorios
 
 Realizar un proyecto de control de un recetario en los archivos locales
 
+# Fase avanzada
+
 ## Dia 7 - Introduccion a Programacion Orientada a Objetos
 
 Aprender a crear clases  
@@ -83,8 +87,17 @@ Comprender el Modulo RE para la utilizacion de expresiones regulares
 
 Realizar un proyecto de un programa que indentifica un numero de serie dentro de una serie de archivos dentro de un directorio
 
+# Evoluciona a Experto
+
 ## Dia 10 - Pygame
 
 Instalar y conocer la biblioteca de python pytgame  
 
 Realizar y desarrollar el proyecto de Space Invaders con Pygame
+
+## Dia 11 - Web Scraping
+
+Comprender los fundamentos y principios del web Scraping
+Instalar las librerias BeautifulSoup4 y requests
+
+Hacer web scraping de toscrape.com para hacer un proyecto de filtrado de libros
