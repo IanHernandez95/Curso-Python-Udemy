@@ -101,3 +101,11 @@ Comprender los fundamentos y principios del web Scraping
 Instalar las librerias BeautifulSoup4 y requests
 
 Hacer web scraping de toscrape.com para hacer un proyecto de filtrado de libros
+
+## Dia 12 - TKinter
+
+Aprender los conceptos basicos de TKinter
+Comprender la colocacion de diferentes elementos en la ventana grafica
+Conocer como agregar checkbox, entre, texto, botones a la venta
+
+Desarrollar un Proyecto de un programa para la gestion de un boletas para un restaurante
