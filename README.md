@@ -123,4 +123,14 @@ Realizar un proyecto de asistente virtual de voz
 Instalar las bibliotecas Cmake, dlib, face-recognition, opencv-python, numpy  
 Comprender las bases del reconocmiento facial  
 
-Crear un programa para el registro de asistencia de una base de trabajadores mediante el reconocimiento facial
+Crear un programa para el registro de asistencia de una base de trabajadores mediante el reconocimiento facial  
+
+## Dia 15 - Data Science
+
+Utilizacion de los Cuadernos de Google Colab para desarrollar  
+Comprencion de la Libreria Numpy para calculos matematicos  
+Comprencion de la Libreria Pandas para manejo de datos  
+Comprencion de la Libreria Matplotlib para creacion de graficos  
+Introdiccion al Machine Learning  
+
+Desarrollo de un proyecto de Machine Learning para Analizar los datos de Sobrevivientes del Titanic  
