@@ -116,4 +116,11 @@ Instalar las bibliotecas que ayudan al reconocimiento de voy y audio a texto
 Crear funcionalidades para crear un asistente virtual  
 Realizar acciones para navegar y buscar en internet con un asistente de voz
 
-Realizar un proyecto de asistente virtual de voz
+Realizar un proyecto de asistente virtual de voz  
+
+## Dia 14 - Reconocimiento Facial
+ 
+Instalar las bibliotecas Cmake, dlib, face-recognition, opencv-python, numpy  
+Comprender las bases del reconocmiento facial  
+
+Crear un programa para el registro de asistencia de una base de trabajadores mediante el reconocimiento facial
