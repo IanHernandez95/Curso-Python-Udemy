@@ -134,3 +134,10 @@ Comprencion de la Libreria Matplotlib para creacion de graficos
 Introdiccion al Machine Learning  
 
 Desarrollo de un proyecto de Machine Learning para Analizar los datos de Sobrevivientes del Titanic  
+
+## Dia 16 - Python Django
+
+Instalacion de Virtualenv para la creacion de entornos virtuales  
+Comprencion y practica del Framework Django
+
+Desarrollo de un proyecto de pagina web de una TODO list  
