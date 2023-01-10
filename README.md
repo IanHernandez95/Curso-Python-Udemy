@@ -8,7 +8,7 @@ Este es el Repostorio de todos los ejercicios Realizados durante el curos de Pyt
 
 ## Dia 1 - Basicos de Python
 
-Aprender a usarl la declaracion Print  
+Aprender a usar la declaracion Print  
 Conocer los String  
 Conocer el metodo input  
 
