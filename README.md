@@ -141,3 +141,6 @@ Instalacion de Virtualenv para la creacion de entornos virtuales
 Comprencion y practica del Framework Django
 
 Desarrollo de un proyecto de pagina web de una TODO list  
+  
+  
+# Final del curso
